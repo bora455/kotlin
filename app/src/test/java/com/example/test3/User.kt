@@ -6,7 +6,7 @@ import java.util.*
 var data = 10
 
 fun formatDate(date: Date): String {
-    val sdformat = SimpleDateFormat("yyyy-mm-dd")
+    val sdformat = SimpleDateFormat("yyyy-MM-dd")
     return sdformat.format(date)
 }
 
