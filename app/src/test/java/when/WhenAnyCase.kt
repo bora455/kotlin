@@ -1,4 +1,4 @@
-package When
+package `when`
 
 class MyClass
 

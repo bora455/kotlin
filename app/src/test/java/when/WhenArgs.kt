@@ -1,4 +1,4 @@
-package chap03
+package `when`
 
 fun main() {
     print("Enter the score: ")
