@@ -1,4 +1,4 @@
-package chap5
+package chap05
 
 class Bird { //클래스의 정의
     //프로퍼티들(속성)

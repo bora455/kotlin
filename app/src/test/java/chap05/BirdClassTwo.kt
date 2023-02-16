@@ -1,4 +1,4 @@
-package chap5
+package chap05
 
 class Bird5 {
     //프로퍼티들

@@ -1,4 +1,4 @@
-package chap5
+package chap05
 
 class Bird2 {
     //프로퍼티들 - 선언만 함
