@@ -1,5 +1,6 @@
 package chap06
 
+/*
 private class PrivateClass {
     private var i =1
     private fun privateFunc() {
@@ -22,4 +23,4 @@ fun main() {
 }
 fun TopFunction() {
     val tpc = PrivateClass() //객체 생성 가능
-}
+}*/
