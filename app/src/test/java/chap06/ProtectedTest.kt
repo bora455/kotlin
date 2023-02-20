@@ -1,5 +1,6 @@
 package chap06
 
+/*
 open class Base { //최상위 선언 클래스에는 protected를 사용할 수 없음
     protected var i = 1
     protected  fun protectedFunc() {
@@ -21,4 +22,4 @@ fun main() {
     base.toString() //접근 불가
     base.protectedFunc() //접근 불가
     base.access() //접근 가능
-}
+}*/
