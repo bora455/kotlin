@@ -1,6 +1,6 @@
 package chap09
 
-class Box<T>(val size: Int)
+class Box1<T>(val size: Int)
 
 fun main(args: Array<String>) {
     //val anys: Box<Any> = Box<Int>(10) //자료형 불일치로 오류
